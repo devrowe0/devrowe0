@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emirhan!</h1>
 <h3 align="center">A passionate wannabe frontend developer and student from Türkiye.</h3>
 
-- 🌱 I’m currently learning **JavaScript and C++**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **emirhangencayy@hotmail.com**
 
