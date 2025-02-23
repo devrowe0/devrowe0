@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Emirhan!</h1>
-<h3 align="center">A passionate wannabe frontend developer and student from Türkiye.</h3>
+<h1 align="center">Hi, I am Rowe!</h1>
+<h3 align="center">A passionate wannabe game developer.</h3>
 
-- 🌱 I’m currently learning **C++**
-
-- 📫 How to reach me **emirhangencayy@hotmail.com**
+- You can reach me **emirhangencayy@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
