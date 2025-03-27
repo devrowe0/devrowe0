@@ -1,7 +1,6 @@
-<h1 align="center">Hi, I am Rowe!</h1>
-<h3 align="center">A passionate wannabe game developer.</h3>
+<h1>Hi, I am Rowe!</h1>
+<h3>wannabe game dev.</h3>
 
-- You can reach me **emirhangencayy@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
